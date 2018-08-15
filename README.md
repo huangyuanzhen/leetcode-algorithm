@@ -1,10 +1,10 @@
 # daily-leetcode
 daily leetcode recording.
 
-## 初级
+## Easy
 
-* [两数之和](https://github.com/huangyuanzhen/daily-leetcode/issues/1)
+* [Two sum](https://github.com/huangyuanzhen/daily-leetcode/issues/1)
 
-## 中级
+## Medium
 
-* [两数相加](https://github.com/huangyuanzhen/daily-leetcode/issues/2)
+* [Add two numbers](https://github.com/huangyuanzhen/daily-leetcode/issues/2)
