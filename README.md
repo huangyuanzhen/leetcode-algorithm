@@ -6,6 +6,7 @@ daily leetcode recording.To improve my ability of algorithm.
 
 * [Two sum](https://github.com/huangyuanzhen/daily-leetcode/issues/1)两数之和
 * [Reverse Integer](https://github.com/huangyuanzhen/daily-leetcode/issues/4) 反转整数
+* [palindromic number]() 回文数
 
 ## Medium（中级）
 
