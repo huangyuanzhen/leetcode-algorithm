@@ -5,6 +5,7 @@ daily leetcode recording.To improve my ability of algorithm.
 ## Easy(初级)
 
 * [Two sum](https://github.com/huangyuanzhen/daily-leetcode/issues/1)两数之和
+* [Reverse Integer](https://github.com/huangyuanzhen/daily-leetcode/issues/4) 反转整数
 
 ## Medium（中级）
 
