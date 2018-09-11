@@ -1,6 +1,6 @@
 # daily-leetcode
 
-daily leetcode recording.To improve my ability of algorithm. 这里采用的是 javascript 语法
+daily leetcode recording.To improve my ability of algorithm. 这里采用的是 **javascript** 语法
 
 ## Easy(初级)
 
