@@ -8,6 +8,7 @@ daily leetcode recording.To improve my ability of algorithm. 这里采用的是 
 * [Reverse Integer](https://github.com/huangyuanzhen/daily-leetcode/issues/4) 反转整数
 * [palindromic number](https://github.com/huangyuanzhen/daily-leetcode/issues/5) 回文数
 * [Longest Common Prefix](https://github.com/huangyuanzhen/daily-leetcode/issues/6) 最长公共前缀
+* [Remove Duplicates from Sorted Array](https://github.com/huangyuanzhen/daily-leetcode/issues/7) 删除排序数组中的重复项
 
 ## Medium（中级）
 
