@@ -11,6 +11,7 @@ daily leetcode recording.To improve my ability of algorithm. 这里采用的是 
 * [Remove Duplicates from Sorted Array](https://github.com/huangyuanzhen/daily-leetcode/issues/7) 删除排序数组中的重复项
 * [remove-element](https://github.com/huangyuanzhen/daily-leetcode/issues/8) 移除元素
 * [implement-strstr](https://github.com/huangyuanzhen/daily-leetcode/issues/9) 实现strStr()
+* [Search Insert Position](https://github.com/huangyuanzhen/daily-leetcode-algorithm/issues/10 搜索插入位置
 
 ## Medium（中级）
 
