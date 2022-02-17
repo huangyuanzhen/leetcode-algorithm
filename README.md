@@ -1,6 +1,6 @@
 # daily-leetcode
 
-daily leetcode recording.To improve my ability of algorithm. 这里采用的是 **javascript** 语法
+daily leetcode recording.To improve my ability of algorithm. 这里采用的是 **javascript/typescript** 语法
 
 ## Easy(初级)
 
@@ -18,6 +18,7 @@ daily leetcode recording.To improve my ability of algorithm. 这里采用的是 
 * [Add two numbers](https://github.com/huangyuanzhen/daily-leetcode/issues/2) 两数相加
 * [Longest Substring Without Repeating Characters](https://github.com/huangyuanzhen/daily-leetcode/issues/3) 无重复字符串的最大长度
 * [字符串最小回文数](https://github.com/huangyuanzhen/leetcode-algorithm/issues/12)
+* [盛最大的水量]
 
 
 ## 一些经典的面试题目(前端)
