@@ -20,7 +20,7 @@ daily leetcode recording.To improve my ability of algorithm. 这里采用的是 
 * [字符串最小回文数](https://github.com/huangyuanzhen/leetcode-algorithm/issues/12)
 * [盛最大的水量](https://github.com/huangyuanzhen/leetcode-algorithm/issues/13)
 * [整数转罗马数字](https://github.com/huangyuanzhen/leetcode-algorithm/issues/14)
-* [深度优先算法](https://github.com/huangyuanzhen/leetcode-algorithm/issues/15)
+* [合并二叉树](https://github.com/huangyuanzhen/leetcode-algorithm/issues/15)
 
 
 ## 一些经典的面试题目(前端)
