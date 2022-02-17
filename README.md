@@ -21,7 +21,8 @@ daily leetcode recording.To improve my ability of algorithm. 这里采用的是 
 * [盛最大的水量](https://github.com/huangyuanzhen/leetcode-algorithm/issues/13)
 * [整数转罗马数字](https://github.com/huangyuanzhen/leetcode-algorithm/issues/14)
 * [合并二叉树](https://github.com/huangyuanzhen/leetcode-algorithm/issues/15)
-* [合并有序链表](https://github.com/huangyuanzhen/leetcode-algorithm/issues/16)
+* [有效的括号](https://github.com/huangyuanzhen/leetcode-algorithm/issues/16)
+* [合并有序链表](https://github.com/huangyuanzhen/leetcode-algorithm/issues/17)
 
 
 ## 一些经典的面试题目(前端)
