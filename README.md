@@ -23,6 +23,7 @@ daily leetcode recording.To improve my ability of algorithm. 这里采用的是 
 * [合并二叉树](https://github.com/huangyuanzhen/leetcode-algorithm/issues/15)
 * [有效的括号](https://github.com/huangyuanzhen/leetcode-algorithm/issues/16)
 * [合并有序链表](https://github.com/huangyuanzhen/leetcode-algorithm/issues/17)
+* [最大子数组和](https://github.com/huangyuanzhen/leetcode-algorithm/issues/18)
 
 
 ## 一些经典的面试题目(前端)
