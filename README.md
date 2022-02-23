@@ -25,6 +25,7 @@ daily leetcode recording.To improve my ability of algorithm. 这里采用的是 
 * [合并有序链表](https://github.com/huangyuanzhen/leetcode-algorithm/issues/17)
 * [最大子数组和](https://github.com/huangyuanzhen/leetcode-algorithm/issues/18)
 * [爬楼梯](https://github.com/huangyuanzhen/leetcode-algorithm/issues/19)
+* [删除链表的倒数第 n 个节点](https://github.com/huangyuanzhen/leetcode-algorithm/issues/20) - 快慢指针
 
 
 ## 一些经典的面试题目(前端)
